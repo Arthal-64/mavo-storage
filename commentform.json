@@ -1,5 +1,19 @@
 {
 	"email": "fvcgfgfgfgoo@example.com",
 	"message": "\t\t\tEdit the form and notice how the values persist after you refresh!\n\t\t",
-	"email-label": "ghgdhd"
+	"email-label": "ghgdhd",
+	"pet": [
+		{
+			"name": "Adam Catlace",
+			"birthday": "2014-07-02",
+			"FF": 50
+		}
+	],
+	"hue": 180,
+	"saturation": 50,
+	"lightness": 50,
+	"hobby": [
+		"11",
+		"21"
+	]
 }
